@@ -73,6 +73,11 @@ hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
 
 [[files]]
+file = "mods/cropped.pw.toml"
+hash = "89a281632f1303d96b11e51a30dc5d63db7ae6b345789eea24933c063b1131da"
+metafile = true
+
+[[files]]
 file = "mods/deepslatecutting.pw.toml"
 hash = "5a198ceb4384c21b7a51b2821342e5584b259fce9aff1d88da02a50d080a12e6"
 metafile = true
@@ -80,11 +85,6 @@ metafile = true
 [[files]]
 file = "mods/fabrication.pw.toml"
 hash = "2d2e46755efb50ba3f8ec9e2a49c854b76dd5c31cd64ad526a435d07f6259267"
-metafile = true
-
-[[files]]
-file = "mods/harvest.pw.toml"
-hash = "5e3ae618bbae84cd594e64a56db95c455821ee657bf9558333837ec543938689"
 metafile = true
 
 [[files]]
