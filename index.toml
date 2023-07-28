@@ -1,1 +1,131 @@
 hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
+metafile = true
+
+[[files]]
+file = "mods/beenfo.pw.toml"
+hash = "36573ec78f4faa00770337200cddb801e61217392513913d15a36da0ed95edab"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
+metafile = true
+
+[[files]]
+file = "mods/deepslatecutting.pw.toml"
+hash = "5a198ceb4384c21b7a51b2821342e5584b259fce9aff1d88da02a50d080a12e6"
+metafile = true
+
+[[files]]
+file = "mods/fabrication.pw.toml"
+hash = "2d2e46755efb50ba3f8ec9e2a49c854b76dd5c31cd64ad526a435d07f6259267"
+metafile = true
+
+[[files]]
+file = "mods/harvest.pw.toml"
+hash = "5e3ae618bbae84cd594e64a56db95c455821ee657bf9558333837ec543938689"
+metafile = true
+
+[[files]]
+file = "mods/invview.pw.toml"
+hash = "fb895dcf5858adba539fa4afbaf183308e10e23c9e5cb7f619e5ffa1281781cd"
+metafile = true
+
+[[files]]
+file = "mods/itemrename.pw.toml"
+hash = "f5ec4a1f805c364e2ec296faa008f515731d277900743e74974fac528715cdf0"
+metafile = true
+
+[[files]]
+file = "mods/jumpvader.pw.toml"
+hash = "b0e66cb27541902ffb0c427f3047aa153dc6819cbf57e792ebc46b1ccfe1cf77"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "84defc8f8116d5c0e4210934ed1f555641a1db71b767fa4beddee21c47118868"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "879f42a9c6ede67873e773764319cc52105db1c5bfdd540878c9a28eaa0c5561"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "d8a63436486b493b17b256a6baf9fdc3ec5d990398065bb4f0997e089d891e43"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "ddbe7e00d9d69b3c7f4d35f26d35e78265167c125dbff495dc4d121e7d3f3777"
+metafile = true
+
+[[files]]
+file = "mods/polysit.pw.toml"
+hash = "e7984ad1dd8567562d09ddf183fd86a2d7b63419b14e23c29d015f9e219056c4"
+metafile = true
+
+[[files]]
+file = "mods/qkl.pw.toml"
+hash = "02343a477f6f4ffd9cbedd4f93252f443c599b2f8d250037920d3a47f5756e6a"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "be8073079bf41847c3aa1fb80c9941fa52b8c0ae39eb44a1475618d31c33e1d9"
+metafile = true
+
+[[files]]
+file = "mods/servux.pw.toml"
+hash = "5e78027ca7fa10fb5ca74614dae6941696f7db526afb36f678df75a636cf8739"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "7ca0983d3b7852c06f84c66b9f12da8115ff9b8ba63293cd20452377a0de726e"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "4f101cf87d3e2228c8c62e3b91ecdb1825809841041e709f9d1480d4e25fad3a"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "e6f4e06c4d4442c08a9f64772a3e078209d57a5d81f6c8ee0fde0da006789a3a"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "8a6442ca759237fb4346e02653feba023529db29127c6b20740801199395241d"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "fda4e069e887ff780b767ba811a8e882ae527df4bdd8eacd7d60bab76eb27f27"
+metafile = true
+
+[[files]]
+file = "mods/veindigging.pw.toml"
+hash = "18665e1421d5742b69f1524fa0fdd5f4a8382146204510b8bd5619c11ead3e25"
+metafile = true
