@@ -14,7 +14,7 @@
     "emoticons": false
   },
   "default": {
-    "display_name": "${default}",
+    "display_name": "%styled-nicknames:display_name%",
     "message_formats": {
       "chat": "<${player}> ${message}",
       "joined_the_game": "<yellow><lang:multiplayer.player.joined:'${player}'></yellow>",

@@ -26,11 +26,11 @@ hash = "939cfc95ed4a7480ac08d3f692538a348af72c6db693349c61f93f926976d1f2"
 
 [[files]]
 file = "config/styled-chat.json"
-hash = "e94801fe1eea0f5e88d62d787b949fc7e963be6f8425da442ac737e64ad34bbd"
+hash = "53401ca7bf44f10d9c0ba90c3097a6f249c9d8fc4cfd7bf1daa56a1e3965b8b5"
 
 [[files]]
 file = "config/styled-nicknames.json"
-hash = "c3a68ff97284d5fa78b1eb0afef89baf9faa8b73ed5473e88f79bd2336ab1434"
+hash = "6653b6973a0085957c3b512460e0889de829a05cd70d91bfd989180baf1c4c11"
 
 [[files]]
 file = "config/styledplayerlist/config.json"
