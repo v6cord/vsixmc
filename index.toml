@@ -1,6 +1,58 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fabrication/dimensional_tools.ini"
+hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
+
+[[files]]
+file = "config/fabrication/features.ini"
+hash = "d473dbbb2c8033e1f25e538e16080d1fdc5fb0c44d778853a39693aac65f9d12"
+
+[[files]]
+file = "config/fabrication/gear_components.ini"
+hash = "5a9291467f9f7918687a0d138a61e396cb9299b0b4ea2e4cf4f4d6f3594f865b"
+
+[[files]]
+file = "config/fabrication/item_despawn.ini"
+hash = "24b26ac0b8ff13889b6b3b00b2309366eb72c36014a9679a82f4cbff46c275f4"
+
+[[files]]
+file = "config/fabrication/taggable_players.ini"
+hash = "fe069b4316f910f2f3b703cedd9930b73eed74c2ae86909f8b43a8ffd3d1af45"
+
+[[files]]
+file = "config/fabrication/yeet_recipes.ini"
+hash = "939cfc95ed4a7480ac08d3f692538a348af72c6db693349c61f93f926976d1f2"
+
+[[files]]
+file = "config/styled-chat.json"
+hash = "e94801fe1eea0f5e88d62d787b949fc7e963be6f8425da442ac737e64ad34bbd"
+
+[[files]]
+file = "config/styled-nicknames.json"
+hash = "c3a68ff97284d5fa78b1eb0afef89baf9faa8b73ed5473e88f79bd2336ab1434"
+
+[[files]]
+file = "config/styledplayerlist/config.json"
+hash = "85cc06508645172c4aa9c18691235209bcd1c8eb892ad418e6bdfd4654eee818"
+
+[[files]]
+file = "config/styledplayerlist/styles/animated.json"
+hash = "9c86b4c00b2dc199e13cd4278961d004f413ef0468a10a1faa70892bd65b8f26"
+
+[[files]]
+file = "config/styledplayerlist/styles/default.json"
+hash = "2b2c36635c8936d4741bd81febaf86a03b28a6b1f6b4e65a229ed65192b25582"
+
+[[files]]
+file = "config/universal-graves/config.json"
+hash = "58afe49977613d428793fcb61a434bc56bbb80a79b5760330e84e2fa8134fdcf"
+
+[[files]]
+file = "config/universal-graves/models/example.json"
+hash = "9e9363b1ffafbb1dd8b9c53c77311eddb37697ca48d3b287291ff5573fe48352"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
 metafile = true
