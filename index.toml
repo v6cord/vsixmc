@@ -6,7 +6,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "d473dbbb2c8033e1f25e538e16080d1fdc5fb0c44d778853a39693aac65f9d12"
+hash = "2590c58422249f3d98ef4a2336afb85c4a00438ce735fcc2a3c9cce859aa704f"
 
 [[files]]
 file = "config/fabrication/gear_components.ini"
