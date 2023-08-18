@@ -178,6 +178,11 @@ hash = "8a6442ca759237fb4346e02653feba023529db29127c6b20740801199395241d"
 metafile = true
 
 [[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "183af625e797a215d65c677369274975a3895ecde9c101ddb421c5747de1b226"
+metafile = true
+
+[[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "75ccdfd2f29fbe19c23602d87f3fe79276955878eda6705f138b393077cc482c"
 metafile = true
