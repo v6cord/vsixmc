@@ -1,13 +1,13 @@
 name = "JumpVader (Polymer)"
-filename = "jumpvader-1.0.3+1.20.1.jar"
+filename = "jumpvader-1.0.9+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hcqCqeMe/versions/8dLo4oxs/jumpvader-1.0.3%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/hcqCqeMe/versions/NjjmjkYk/jumpvader-1.0.9%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "2d2c1bb46d3bb8f917e586257ad39800a135bfb7"
+hash = "21683f2fc26fd9d722cc89a8bd9c896315645844"
 
 [update]
 [update.modrinth]
 mod-id = "hcqCqeMe"
-version = "8dLo4oxs"
+version = "NjjmjkYk"
