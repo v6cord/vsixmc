@@ -54,7 +54,7 @@ hash = "9e9363b1ffafbb1dd8b9c53c77311eddb37697ca48d3b287291ff5573fe48352"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
+hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
 metafile = true
 
 [[files]]
@@ -69,7 +69,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
+hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
 
 [[files]]
@@ -84,12 +84,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabrication.pw.toml"
-hash = "2d2e46755efb50ba3f8ec9e2a49c854b76dd5c31cd64ad526a435d07f6259267"
+hash = "a4c26b997a50b2db668863350bba9264519d537fe0ed1f489a64b4dc004082ed"
 metafile = true
 
 [[files]]
 file = "mods/invview.pw.toml"
-hash = "fb895dcf5858adba539fa4afbaf183308e10e23c9e5cb7f619e5ffa1281781cd"
+hash = "3b822e0fb2de224353aa4e99af208648df864163623ac22c38456280fdb04245"
 metafile = true
 
 [[files]]
@@ -104,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-us-in-peace.pw.toml"
-hash = "57cae0b7139111e4c74b41efc9543e662bf7300344e01d8b13e67ee1b47d38b9"
+hash = "215952f46cdc0e8f381d4d448614ce0284426e3f0cbbc8d3a8c2841b9493fedf"
 metafile = true
 
 [[files]]
@@ -114,37 +114,37 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+hash = "a08a445002542d96a8481654c3f4b5e2d3c064f77b477aeaa3a1d1c3cd396ca8"
 metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
-hash = "879f42a9c6ede67873e773764319cc52105db1c5bfdd540878c9a28eaa0c5561"
+hash = "7fa8795248f8813dbda62b9ef3e3f718368857ad1b0498362ea11bb1399bd229"
 metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "d8a63436486b493b17b256a6baf9fdc3ec5d990398065bb4f0997e089d891e43"
+hash = "3c5a5fe2267f93188d7e41f7a06ea09a64b40224b90f601e42cf666c16f12268"
 metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "8174614dfd5eea649b6418db16d7de1b45fca1dd7e62dcd5313874330baf1557"
+hash = "803e0a9f2b35d933bc3d583ce4db52dfff9c717b7f89f4462f0437f16b86e6fc"
 metafile = true
 
 [[files]]
 file = "mods/polysit.pw.toml"
-hash = "e7984ad1dd8567562d09ddf183fd86a2d7b63419b14e23c29d015f9e219056c4"
+hash = "9e28be7f65522422a4ae6de4b75a6ae539067fdeae63f8c000641ac66925fb33"
 metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "b0615e667641dd52e900c970553e0ce80748645dfaa93117bb126dccae3e3c19"
+hash = "2c15a7ba78e8d8abbc612e55cfdb3df7c002a90d8fa467d88e28fe875ccaa3e9"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "7ffa8a332d46b6b412904e52353d7095b4709de406699d75bc31dc99ce416487"
+hash = "f2644c0b7c14e9f76afc4e042970f010636e98a116ed92e624e87f01a782aab6"
 metafile = true
 
 [[files]]
@@ -154,12 +154,12 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "7ca0983d3b7852c06f84c66b9f12da8115ff9b8ba63293cd20452377a0de726e"
+hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
 metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
-hash = "4f101cf87d3e2228c8c62e3b91ecdb1825809841041e709f9d1480d4e25fad3a"
+hash = "e079fd37c41a102621a9d3ee5b8cdbc332fd28ec007a28a019d30b35d3829b41"
 metafile = true
 
 [[files]]
@@ -174,12 +174,12 @@ metafile = true
 
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
-hash = "183af625e797a215d65c677369274975a3895ecde9c101ddb421c5747de1b226"
+hash = "c7a5a9c7e113c4ee32c2f0f779ee609a138d9855a8adaca00fb36fcdc8f7066a"
 metafile = true
 
 [[files]]
 file = "mods/universal-graves.pw.toml"
-hash = "75ccdfd2f29fbe19c23602d87f3fe79276955878eda6705f138b393077cc482c"
+hash = "82f2482d9c8e39dbdc8cf303866d7fb087861aec2a0b5564ce7fc37caf274750"
 metafile = true
 
 [[files]]
